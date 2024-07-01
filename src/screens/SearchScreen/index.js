@@ -53,7 +53,7 @@ const index = () => {
                 }}
                 fetchDetails
                 query={{
-                    key: 'AIzaSyCZ0tmsb2tHm9basM-gjHeMgGFiQRZKev0',
+                    key: 'API Key',
                     language: 'en',
                 }}
                 enablePoweredByContainer={false}
@@ -81,7 +81,7 @@ const index = () => {
                 }}
                 fetchDetails
                 query={{
-                    key: 'AIzaSyCZ0tmsb2tHm9basM-gjHeMgGFiQRZKev0',
+                    key: 'API Key',
                     language: 'en',
                 }}
                 enablePoweredByContainer={false}
